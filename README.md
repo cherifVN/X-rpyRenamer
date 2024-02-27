@@ -18,4 +18,4 @@ Ce processus peut aider à rendre les fichiers plus faciles à gérer et à modi
 
 ## Licence 
 
-Ce fichier est sous licence `CC-BY-NC` 4.0. Pour plus d'infos veuillez consulter le fichier [LICENSE.md](https://github.com/cherifVN/X-rpyRenamer/blob/main/LICENSE.md)
+Ce fichier est sous licence `CC-BY-NC` 4.0. Pour plus d'infos veuillez consulter le fichier [LICENSE](https://github.com/cherifVN/X-rpyRenamer/blob/main/LICENSE)
